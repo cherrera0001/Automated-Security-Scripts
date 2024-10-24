@@ -1,3 +1,5 @@
 requests
 scapy
 nmap
+frida
+python-nmap
